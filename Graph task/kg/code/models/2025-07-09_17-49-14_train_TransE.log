@@ -1,0 +1,20 @@
+2025-07-09 17:49:14 INFO     Loading data...
+2025-07-09 17:49:17 INFO     Model: TransE
+2025-07-09 17:49:17 INFO     Data Path: ../data/FB15k-237
+2025-07-09 17:49:17 INFO     Model Parameter Configuration:
+2025-07-09 17:49:17 INFO     Parameter gamma: torch.Size([1]), require_grad = False
+2025-07-09 17:49:17 INFO     Parameter entity_embedding.weight: torch.Size([14541, 100]), require_grad = True
+2025-07-09 17:49:17 INFO     Parameter relation_embedding.weight: torch.Size([14541, 100]), require_grad = True
+2025-07-09 17:49:17 INFO     Ramdomly Initializing Model...
+2025-07-09 17:49:17 INFO     Start Training...
+2025-07-09 17:49:17 INFO     init_step = 0
+2025-07-09 17:49:17 INFO     batch_size = 64
+2025-07-09 17:49:17 INFO     hidden_dim = 100
+2025-07-09 17:49:17 INFO     lmbda = 0.000000
+2025-07-09 17:49:17 INFO     learning_rate = 0
+2025-07-09 17:50:13 INFO     Training average loss at step 1000: 3.642728
+2025-07-09 17:50:46 INFO     Training average loss at step 2000: 3.560457
+2025-07-09 17:51:20 INFO     Training average loss at step 3000: 3.465140
+2025-07-09 17:51:54 INFO     Training average loss at step 4000: 3.356737
+2025-07-09 17:52:47 INFO     Training average loss at step 5000: 3.236515
+2025-07-09 17:53:14 INFO     Training average loss at step 6000: 3.105891

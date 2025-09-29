@@ -1,0 +1,4 @@
+2025-07-09 17:47:54 INFO     Loading data...
+2025-07-09 17:47:56 INFO     Model: ATransE
+2025-07-09 17:47:56 INFO     Data Path: ../data/FB15k-237
+2025-07-09 17:47:56 INFO     Model Parameter Configuration:
